@@ -8,3 +8,7 @@ e = k+x+k-x
 print (c)
 print (d)
 print (e)
+m = k/x
+
+
+print (m)
